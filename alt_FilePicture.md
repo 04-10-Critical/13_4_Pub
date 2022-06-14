@@ -24,7 +24,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
-
+# 14/06/2022
 # true
 
   - Import a HTML file and watch it magically convert to Markdown
